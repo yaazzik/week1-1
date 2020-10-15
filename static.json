@@ -2,6 +2,7 @@
   "headers":{
     "/*":{
       "X-Author": "Чалапко, Егор Витальевич"
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
