@@ -1,7 +1,7 @@
 {
   "headers":{
     "/*":{
-      "X-Author": "191516",
+      "X-Author": "egorchalapko",
       "Access-Control-Allow-Origin": "*"
     }
   }
